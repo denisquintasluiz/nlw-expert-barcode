@@ -9,6 +9,7 @@ disable=
       C0303, # trailing-whitespace
       W0719, # broad-exception-raised
       E0401, # import-error
+      W0611, # unused-import
 
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
